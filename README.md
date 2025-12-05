@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Farhaan Shahzad</h1>
 
 <p align="center">
-  🚀 Aspiring Full-Stack MERN Developer | Passionate Learner | Problem Solver
+  🚀 Masai Student Learning Software Development
 </p>
 
 ---
@@ -37,8 +37,10 @@ I enjoy solving problems, exploring modern web technologies, and turning ideas i
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🚀 **Hospital Management System** | A smart web app for managaming hospital work load | React, Vite |
-| 🍽️ **Sky Caste** | Fetch and explore Weather from an API | Html, js, Fetch API |
+| 🚀 **Hospital Management System** |The Hospital Management System (HMS) is a full-stack MERN-based, multi-tenant healthcare management platform designed to streamline hospital operations such as patient registration, appointments, prescriptions, and user-role management. This platform enables hospitals to digitize their workflow with secure authentication, scalable architecture, and role-based access control — without requiring any prior IT infrastructure. | React, TailwindCss, Express.js, Node.js, MongoDB |
+| 🍽️ **Sky Caste** | SkyCast is a lightweight, modern, and responsive weather forecasting web application built using HTML, TailwindCSS, and vanilla JavaScript. It allows users to search any city worldwide and instantly fetch current weather conditions along with the last 5-day weather history using real-time API data. | Html, js, Fetch API 
+| 🍽️ **Portfolio** | This is my personal developer portfolio website, designed and developed using React and TailwindCSS to showcase my skills, projects, and professional journey in a clean and responsive layout. It serves as a digital identity where recruiters, collaborators, and clients can explore my work and get in touch with me. | React,TailwindCss |
+
 | ⏳ More Projects Coming Soon | — | — |
 
 ---
@@ -56,7 +58,7 @@ I enjoy solving problems, exploring modern web technologies, and turning ideas i
 
 📧 **Email:** shahzadfarhaan786@gmail.com  
 🔗 **LinkedIn:** [Farhaan Shahzad](https://www.linkedin.com/in/farhaan-shahzad-97b4002b2/)  
-🌍 **Portfolio:** [farhaanportfolio.netlify.app](https://farhaanportfolio.netlify.app/#contact)
+🌍 **Portfolio:** [farhaanportfolio.netlify.app](https://farhaanportfolio.netlify.app/)
 
 ---
 
