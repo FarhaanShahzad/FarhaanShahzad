@@ -8,8 +8,9 @@
 
 ### 🔹 About Me
 
-💡 I’m a motivated developer currently learning and building real-world apps using the **MERN stack**.  
-I enjoy solving problems, exploring modern web technologies, and turning ideas into functional products.
+💡 🚀 Masai Student Learning Software Development
+ I’m a motivated developer currently learning and building real-world apps using the **MERN stack**.  
+ I enjoy solving problems, exploring modern web technologies, and turning ideas into functional products.
 
 - 🎯 Current Focus: **Full-Stack Web Development**
 - 🔥 Passionate about building **impactful and scalable applications**
