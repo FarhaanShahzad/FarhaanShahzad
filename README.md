@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Farhaan Shahzad</h1>
 
 <p align="center">
-  🚀 Masai Student Learning Software Development
+  🚀 Software Developer 
 </p>
 
 ---
