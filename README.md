@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Farhaan Shahzad</h1>
 
 <p align="center">
-  🚀 Software Developer 
+  🚀 MERN Stack Developer | Passionate about clean code & powerful web apps
 </p>
 
 ---
